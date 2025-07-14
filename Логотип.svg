@@ -1,0 +1,19 @@
+<svg width="196" height="24" viewBox="0 0 196 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_6002_2351)">
+<path d="M22 22H12C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12V22Z" stroke="#333333" stroke-width="4"/>
+<path d="M12 9V12M12 15V12M12 12H15M12 12H9" stroke="#FC7753" stroke-width="4" stroke-linecap="square"/>
+</g>
+<path d="M30 22V14H42C44.2091 14 46 15.7909 46 18C46 20.2091 44.2091 22 42 22H30Z" stroke="#333333" stroke-width="4"/>
+<path d="M30 14V6H42C44.2091 6 46 7.79086 46 10C46 12.2091 44.2091 14 42 14H30Z" stroke="#333333" stroke-width="4"/>
+<path d="M54 6V16C54 19.3137 56.6863 22 60 22H70V6" stroke="#333333" stroke-width="4" stroke-linecap="square"/>
+<path d="M78 6V16C78 19.3137 80.6863 22 84 22H94M94 22V6M94 22H98" stroke="#333333" stroke-width="4" stroke-linecap="square"/>
+<path d="M122 6H108C106.895 6 106 6.89543 106 8V14M122 22H108C106.895 22 106 21.1046 106 20V14M106 14H122" stroke="#333333" stroke-width="4" stroke-linecap="square"/>
+<path d="M130 6V14M130 22V14M130 14H146M146 14V6M146 14V22" stroke="#333333" stroke-width="4" stroke-linecap="square"/>
+<path d="M154 6V14M154 22V14M154 14H170M170 14V6M170 14V22" stroke="#333333" stroke-width="4" stroke-linecap="square"/>
+<path d="M194 22H186C181.582 22 178 18.4183 178 14C178 9.58172 181.582 6 186 6C190.418 6 194 9.58172 194 14V22Z" stroke="#333333" stroke-width="4"/>
+<defs>
+<clipPath id="clip0_6002_2351">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

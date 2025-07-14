@@ -1,0 +1,42 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Geologica;
+}
+
+.container
+{
+    max-width: 1734px;
+    padding: 0 15px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.g-button
+{
+    border-radius: 4px;
+    padding: 24px 48px;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #333333;
+    background-color: #FFCA3A;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: .77 all ease;
+}
+
+.g-button:hover
+{
+    scale: .97;
+}
+
+.g-button--black
+{
+    background-color: #333;
+    color: white;
+}
