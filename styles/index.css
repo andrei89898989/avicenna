@@ -30,10 +30,7 @@
     transition: .77 all ease;
 }
 
-.g-button:hover
-{
-    scale: .97;
-}
+.g-button:hover { scale: .97; }
 
 .g-button--black
 {
